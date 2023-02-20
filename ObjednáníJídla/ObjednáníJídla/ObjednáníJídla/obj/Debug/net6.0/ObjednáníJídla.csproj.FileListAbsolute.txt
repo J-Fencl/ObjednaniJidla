@@ -1,0 +1,15 @@
+C:\Users\Silvie\Desktop\ObjednáníJídla\ObjednáníJídla\ObjednáníJídla\bin\Debug\net6.0\ObjednáníJídla.exe
+C:\Users\Silvie\Desktop\ObjednáníJídla\ObjednáníJídla\ObjednáníJídla\bin\Debug\net6.0\ObjednáníJídla.deps.json
+C:\Users\Silvie\Desktop\ObjednáníJídla\ObjednáníJídla\ObjednáníJídla\bin\Debug\net6.0\ObjednáníJídla.runtimeconfig.json
+C:\Users\Silvie\Desktop\ObjednáníJídla\ObjednáníJídla\ObjednáníJídla\bin\Debug\net6.0\ObjednáníJídla.dll
+C:\Users\Silvie\Desktop\ObjednáníJídla\ObjednáníJídla\ObjednáníJídla\bin\Debug\net6.0\ObjednáníJídla.pdb
+C:\Users\Silvie\Desktop\ObjednáníJídla\ObjednáníJídla\ObjednáníJídla\obj\Debug\net6.0\ObjednáníJídla.csproj.AssemblyReference.cache
+C:\Users\Silvie\Desktop\ObjednáníJídla\ObjednáníJídla\ObjednáníJídla\obj\Debug\net6.0\ObjednáníJídla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silvie\Desktop\ObjednáníJídla\ObjednáníJídla\ObjednáníJídla\obj\Debug\net6.0\ObjednáníJídla.AssemblyInfoInputs.cache
+C:\Users\Silvie\Desktop\ObjednáníJídla\ObjednáníJídla\ObjednáníJídla\obj\Debug\net6.0\ObjednáníJídla.AssemblyInfo.cs
+C:\Users\Silvie\Desktop\ObjednáníJídla\ObjednáníJídla\ObjednáníJídla\obj\Debug\net6.0\ObjednáníJídla.csproj.CoreCompileInputs.cache
+C:\Users\Silvie\Desktop\ObjednáníJídla\ObjednáníJídla\ObjednáníJídla\obj\Debug\net6.0\ObjednáníJídla.dll
+C:\Users\Silvie\Desktop\ObjednáníJídla\ObjednáníJídla\ObjednáníJídla\obj\Debug\net6.0\refint\ObjednáníJídla.dll
+C:\Users\Silvie\Desktop\ObjednáníJídla\ObjednáníJídla\ObjednáníJídla\obj\Debug\net6.0\ObjednáníJídla.pdb
+C:\Users\Silvie\Desktop\ObjednáníJídla\ObjednáníJídla\ObjednáníJídla\obj\Debug\net6.0\ObjednáníJídla.genruntimeconfig.cache
+C:\Users\Silvie\Desktop\ObjednáníJídla\ObjednáníJídla\ObjednáníJídla\obj\Debug\net6.0\ref\ObjednáníJídla.dll
